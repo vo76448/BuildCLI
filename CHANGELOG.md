@@ -32,3 +32,4 @@
 - docs: link the usage section
 - docs: clarify the setup steps
 - docs: link the usage section
+- chore: link the usage section
